@@ -1,0 +1,2 @@
+1.This is a second test of HELLO World. 
+It ignores special characters and capitalizations.
